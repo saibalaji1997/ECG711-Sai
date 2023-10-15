@@ -6,7 +6,9 @@ The problem involves using the provided minimal nodes to develop two ROS nodes, 
 Steps Taken: 
 Setup Workspace- 
 mkdir -p ~/catkin_ws/src
+
 cd ~/catkin_ws/src
+
 catkin_init_workspace 
 
 Clone GitHub Repo: 
@@ -14,7 +16,9 @@ git clone https://github.com/venki666/CpE476_demos.git ~/catkin_ws/src/minimal_n
 
 Build Workspace: 
 cd ~/catkin_ws
+
 catkin_make
+
 source devel/setup.bash 
 
 Driver Node: 
