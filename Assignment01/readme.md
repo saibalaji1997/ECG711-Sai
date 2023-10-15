@@ -6,9 +6,7 @@ The problem involves using the provided minimal nodes to develop two ROS nodes, 
 Steps Taken: 
 Setup Workspace- 
 mkdir -p ~/catkin_ws/src
-
 cd ~/catkin_ws/src
-
 catkin_init_workspace 
 
 Clone GitHub Repo: 
@@ -50,5 +48,7 @@ rostopic list
 Terminal output: 
 https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/e5b8fda3-05d8-4cea-b1bb-a31466dd9b67
 
-Terminal YouTube Link: https://youtu.be/7-PACuAInic?
+Terminal YouTube Link: https://youtu.be/7-PACuAInic? 
+
+
 
