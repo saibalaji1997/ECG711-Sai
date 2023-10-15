@@ -1,0 +1,4 @@
+﻿<launch>
+  <node name="driver_cpp_node" pkg="test001" type="driver" output = "screen"/>
+  <node name="simulator_cpp_node" pkg="test001" type="simulator" output = "screen"/>
+</launch>
