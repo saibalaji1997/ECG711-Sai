@@ -23,7 +23,7 @@ source devel/setup.bash
 
 Driver Node: 
 This node generates random linear and angular velocities, and publishes them on the cmd_vel topic. 
-https://github.com/saibalaji1997/ECG711-Sai/blob/d33fc5e07ce78f42ccc469bdbe5db372097d86d7/Assignment01/test001/images/driver%20code.png
+![image](https://github.com/saibalaji1997/ECG711-Sai/blob/d33fc5e07ce78f42ccc469bdbe5db372097d86d7/Assignment01/test001/images/driver%20code.png)
 
 
 Simulator Node: 
