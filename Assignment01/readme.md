@@ -6,7 +6,9 @@ The problem involves using the provided minimal nodes to develop two ROS nodes, 
 Steps Taken: 
 Setup Workspace- 
 mkdir -p ~/catkin_ws/src
+
 cd ~/catkin_ws/src
+
 catkin_init_workspace 
 
 Clone GitHub Repo: 
