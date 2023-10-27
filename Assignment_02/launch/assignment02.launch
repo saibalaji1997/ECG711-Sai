@@ -1,0 +1,4 @@
+<launch>
+  <node name="mydriver" pkg="assignment02" type="mydriver" output = "screen"/>
+  <node name="mycontroller" pkg="assignment02" type="mycontroller" output = "screen"/>
+</launch>
