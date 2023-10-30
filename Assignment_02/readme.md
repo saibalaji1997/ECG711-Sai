@@ -1,4 +1,4 @@
-**Assignment 2 - Inverse Kinematics of DDMWR**                                          Sai Balaji Jai Kumar
+**Assignment 2 - Inverse Kinematics of DDMWR**                                      Sai Balaji Jai Kumar
 
 **Description of the Problem and Solution**  
 
@@ -32,4 +32,6 @@ Launch the file:
 The two nodes, mydriver and mycontroller, will start running. The mydriver node will publish random goal poses, and the mycontroller node will control the robot to reach these goals using a PID controller.
 
 Terminal output: 
-![image](Assignment_02/images/OPAssign02.png) 
+![image](https://github.com/saibalaji1997/ECG711-Sai/blob/b25070a0ec81c2debee7df19be97d569b6e86978/Assignment_02/images/OPAssign02.png) 
+
+YouTube Link- https://youtu.be/3rqKAEIH9WQ 
