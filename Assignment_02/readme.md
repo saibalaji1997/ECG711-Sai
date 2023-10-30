@@ -4,8 +4,14 @@
 
 Problem Description: In this assignment, the goal is to develop two C++ files, mydriver and mycontroller, that control a mobile robot using ROS. The mydriver constantly publishes the goal_pose (x, y, θ), and the mycontroller implements a simple differential drive inverse kinematics to determine the robot's path.
 
-Steps Taken to Solve the Problem:
+**Brief Description of Each Code**
+mydriver.cpp
+Description: The mydriver node publishes the goal pose of the robot (x, y, θ) at a constant rate. This code generates random goal poses and publishes them to the "goal_pose" topic.
 
-1.I analyzed the assignment description and requirements to understand the problem.
-1.I wrote two C++ files, mydriver.cpp and mycontroller.cpp, to implement the required functionality.
-1.I created a launch file, assignment02.launch, to execute both nodes simultaneously.
+Link to Code: mydriver.cpp- (https://github.com/saibalaji1997/ECG711-Sai/blob/8336c5abcc77ec96cf0cc79c491ea949ecaa6b87/Assignment_02/src/mydriver.cpp)   
+
+mycontroller.cpp
+Description: The mycontroller node subscribes to the "goal_pose" topic to receive the desired goal pose and implements a PID controller to move the robot to the goal. It publishes velocity commands to the "cmd_vel" topic and publishes the current pose to the "gpose_pub" topic.
+
+Link to Code: mycontroller.cpp- (Assignment_02/src/mycontroller.cpp)
+
