@@ -13,5 +13,11 @@ Link to Code: mydriver.cpp- (https://github.com/saibalaji1997/ECG711-Sai/blob/83
 mycontroller.cpp
 Description: The mycontroller node subscribes to the "goal_pose" topic to receive the desired goal pose and implements a PID controller to move the robot to the goal. It publishes velocity commands to the "cmd_vel" topic and publishes the current pose to the "gpose_pub" topic.
 
-Link to Code: mycontroller.cpp- (Assignment_02/src/mycontroller.cpp)
+Link to Code: mycontroller.cpp- (https://github.com/saibalaji1997/ECG711-Sai/blob/c5a753aaf0cbd08117b5d9e64d1f136f155de18d/Assignment_02/src/mycontroller.cpp) 
+
+**Execution Instructions** 
+
+Start Ros: 
+`roscore`
+
 
