@@ -21,4 +21,14 @@ Start Ros:
 
 `roscore`
 
+Source ROS workspace: 
 
+`source devel/setup.bash` 
+
+Launch the file: 
+
+`roslaunch assignment02.launch` 
+
+The two nodes, mydriver and mycontroller, will start running. The mydriver node will publish random goal poses, and the mycontroller node will control the robot to reach these goals using a PID controller.
+
+Terminal output: 
