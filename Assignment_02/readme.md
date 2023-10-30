@@ -32,3 +32,4 @@ Launch the file:
 The two nodes, mydriver and mycontroller, will start running. The mydriver node will publish random goal poses, and the mycontroller node will control the robot to reach these goals using a PID controller.
 
 Terminal output: 
+![image](Assignment_02/images/OPAssign02.png) 
