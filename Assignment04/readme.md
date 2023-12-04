@@ -123,14 +123,17 @@ video link:https://youtube.com/shorts/CgHgy1fG7cI
 
 According to different radar models, it is necessary to declare the [RPLIDAR_TYPE] variable in advance in the [.bashrc] file. Open the [.bashrc] file. modify the radar model directly. After modification, refresh the environment variables. The lidar was used to map in the following types.
 
-**Echo Scan: **
+**Echo Scan: ** 
+
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/727ca79f-d9ba-4353-a6c4-395d6f3081d3) 
 YouTube link: https://youtube.com/shorts/xQpI41YBHTM?si=iaVnVgTN80ecz0Jl 
 
-**Laser scan: ** 
+**Laser scan: **  
+
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/8cf432e9-a3b3-4666-850a-68e3b768f5e5)
 Youtube video link:https://youtube.com/shorts/cyn8fp6hWLs 
 
 **Hector scan: **
+
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/5d2754da-4fe9-409c-920f-701ac4bfe82a) 
 YouTube link: https://youtu.be/Uyh9obMMYC0
