@@ -77,6 +77,7 @@ The working of the ROS-Controller for the motors, encoders, IMU
 The motor connecting line needs to be connected to the corresponding motor as shown in the figure below, otherwise, it may cause the problem that the program does not match the phenomenon. Motor 1 corresponds to the motor in the upper left corner of the body, Motor 2 corresponds to the motor in the lower left corner, Motor 3 corresponds to the motor in the upper right corner, and Motor 4 corresponds to the motor in the lower right corner. 
 
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/dd22de37-d7e7-4cf1-ada6-29c92e9b0f21) 
+
 Its working was checked by considering the rosmaster_v3.3.4.hex file and the controlling by considering the keyboard. launch file. 
 
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/9f634905-b0df-4f73-aa01-446a1992d235) 
