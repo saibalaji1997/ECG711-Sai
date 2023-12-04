@@ -14,8 +14,14 @@ Steps Taken:
 •	Make appropriate changes to codes mainly,mobile_robot.urdf, mobile_robot.urdf.bak and mobilr_robot.urdf.xacro.
 
 •	For chasis, length, width, and height are determined as 0.3048m,0.2032m and 0.127m and wheel dimensions are .1024m,0.1270m, and 0.724m.
+
+
 •	Implemented Jetson Nano on chassis and Lidar on Jetson Nano.
+
+
 •	Jetson nano with box sizes of 0.2m,0.16m, and 0.06m
+
+
 •	Lidar with box sizes of 0.17m,0.1m, and 0.06m 
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/282c1d58-ddd0-4301-b40c-ff520b7b97af)
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/31c37718-5bbb-42d3-acc5-1bf182647754)
@@ -29,6 +35,8 @@ Steps Taken:
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/16de2223-b12f-41e3-8b4d-6c9f6b3bf09c) 
 
 •	Running the drive launch file will lead to the gazebo tool. Gazebo is a powerful open-source simulation tool commonly used in conjunction with ROS for simulating robotic systems and environments. It provides a 3D simulation environment where you can model and simulate robots, sensors, and other objects.
+
+
 •	Steering a robot usually involves controlling its motion and trajectory is obtained.
 
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/0639dc85-6aed-4beb-a869-5bfb22201254) 
