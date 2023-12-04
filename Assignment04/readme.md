@@ -71,7 +71,9 @@ Attached are the images of the Robot that was made by setting up the STM32 ROS C
 The working of the ROS-Controller for the motors, encoders, IMU
 
 
-**Motor:	**
+**Motor:**
+
+
 The motor connecting line needs to be connected to the corresponding motor as shown in the figure below, otherwise, it may cause the problem that the program does not match the phenomenon. Motor 1 corresponds to the motor in the upper left corner of the body, Motor 2 corresponds to the motor in the lower left corner, Motor 3 corresponds to the motor in the upper right corner, and Motor 4 corresponds to the motor in the lower right corner. 
 
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/dd22de37-d7e7-4cf1-ada6-29c92e9b0f21) 
@@ -119,21 +121,21 @@ The angular and linear velocities have a limit value, which cannot be increased 
 
 video link:https://youtube.com/shorts/CgHgy1fG7cI
 
-**Lidar and Mapping **
+**Lidar and Mapping:**
 
 According to different radar models, it is necessary to declare the [RPLIDAR_TYPE] variable in advance in the [.bashrc] file. Open the [.bashrc] file. modify the radar model directly. After modification, refresh the environment variables. The lidar was used to map in the following types.
 
-**Echo Scan: ** 
+**Echo Scan:**
 
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/727ca79f-d9ba-4353-a6c4-395d6f3081d3) 
 YouTube link: https://youtube.com/shorts/xQpI41YBHTM?si=iaVnVgTN80ecz0Jl 
 
-**Laser scan: **  
+**Laser Scan**
 
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/8cf432e9-a3b3-4666-850a-68e3b768f5e5)
 Youtube video link:https://youtube.com/shorts/cyn8fp6hWLs 
 
-**Hector scan: **
+**Hector Scan**
 
 ![image](https://github.com/saibalaji1997/ECG711-Sai/assets/114025759/5d2754da-4fe9-409c-920f-701ac4bfe82a) 
 YouTube link: https://youtu.be/Uyh9obMMYC0
