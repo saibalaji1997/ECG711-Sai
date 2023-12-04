@@ -12,7 +12,7 @@ https://youtu.be/mDARpHEyeRA
 Steps Taken:
 
 •	Make appropriate changes to codes mainly,mobile_robot.urdf, mobile_robot.urdf.bak and mobilr_robot.urdf.xacro.
-•	For chasis, length, width, and height is determined as 0.3048m,0.2032m and 0.127m and wheel dimensions is .1024m,0.1270m, and 0.724m.
+•	For chasis, length, width, and height are determined as 0.3048m,0.2032m and 0.127m and wheel dimensions are .1024m,0.1270m, and 0.724m.
 •	Implemented Jetson Nano on chassis and Lidar on Jetson Nano.
 •	Jetson nano with box sizes of 0.2m,0.16m, and 0.06m
 •	Lidar with box sizes of 0.17m,0.1m, and 0.06m 
